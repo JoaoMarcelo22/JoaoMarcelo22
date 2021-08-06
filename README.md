@@ -30,7 +30,7 @@
 ## Sobre
 
  :mortar_board: Estudando front-end/back-end. <br>
- :bug:  Entusiasta: da tecnologia. <br>
+ :bug:  Entusiasta de tecnologia. <br>
  :video_game: Amante de jogos. <br>
  :sun_with_face: SAPERE AUDE! <br>
   
