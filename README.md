@@ -26,6 +26,13 @@
 <img height="40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+##Sobre
+
+ :mortar_board: Estudando front-end/back-end.
+ :bug:  Entusiasta: da tecnologia.
+ :video_game: Amante de jogos.
+ :sun_with_face: SAPERE AUDE!
   
  ## Redes Sociais 
   
@@ -38,3 +45,5 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/jo%C3%A3o-marcelo-05bb9116a/">
     </a>
 </p>
+
+
