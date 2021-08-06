@@ -1,8 +1,8 @@
 ## Oi, eu sou o João Marcelo e seja bem vindo ao meu perfil ⚡⚡⚡
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMarcelo22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcelo22&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoMarcelo22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcelo22&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ## Skills
