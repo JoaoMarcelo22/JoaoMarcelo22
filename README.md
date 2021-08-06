@@ -27,12 +27,12 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-##Sobre
+## Sobre
 
- :mortar_board: Estudando front-end/back-end.
- :bug:  Entusiasta: da tecnologia.
- :video_game: Amante de jogos.
- :sun_with_face: SAPERE AUDE!
+ :mortar_board: Estudando front-end/back-end. <br>
+ :bug:  Entusiasta: da tecnologia. <br>
+ :video_game: Amante de jogos. <br>
+ :sun_with_face: SAPERE AUDE! <br>
   
  ## Redes Sociais 
   
