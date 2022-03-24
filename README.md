@@ -30,7 +30,7 @@
 </div>
 
 ## Sobre
-
+ :desktop_computer: Estagiario em API/REST
  :mortar_board: Estudando front-end/back-end. <br>
  :bug:  Entusiasta de tecnologia. <br>
  :video_game: Amante de jogos. <br>
