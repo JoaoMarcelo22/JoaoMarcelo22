@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=412973&height=180&section=header&text=João Marcelo&fontSize=30&fontColor=269199&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Marcelo;I+from+Rio de Janeiro,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Marcelo;I+from+Rio+de+Janeiro,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ## Oi, eu sou o João Marcelo e seja bem vindo ao meu perfil ⚡⚡⚡
  <div>
   <a href="https://github.com/joaomarcelo22">
