@@ -38,8 +38,7 @@
  :sparkles: Cursos visados : Pós-Graduação : <b><em> Projetos de Aplicativos Móveis Multiplataforma</em></b> and <b><em>Análise de Dados</em></b>.  
  :bug:  Objetivo atual : Especializar em Full Stack <b>(<em>React</em> / <em>Node</em></b> and<b> <em>Postgre</em>).</b> <br>
  :butterfly:  Objetivo futuro : Especializar em Mobile <b>(<em>React Native</em></b> or <b> <em>Flutter</em>). </b><br>
- :video_game: Amante de jogos. <br>
- :sun_with_face: SAPERE AUDE! <br>
+ :rocket: Meu grande foco na carreia é a Internet 3.0, A tecnologia das coisas, e o Mobile... Mas sei que preciso passar por grandes etapas até conquistar essa montanha de conhecimentos, e o Circulo começa exatamente assim 1º :3rd_place_medal: Front-End.  2º:2nd_place_medal: Back-End. 3º:1st_place_medal: Mobile 4º:medal_sports: Internet das Coisas 5º:trophy: WEB 3.0.
   
  ## Redes Sociais 
   
