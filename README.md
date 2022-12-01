@@ -38,8 +38,8 @@
  :sparkles: Cursos visados : Pós-Graduação : <b><em> Projetos de Aplicativos Móveis Multiplataforma</em></b> and <b><em>Análise de Dados</em></b>.  
  :bug:  Objetivo atual : Especializar em Full Stack <b>(<em>React</em> / <em>Node</em></b> and<b> <em>Postgre</em>).</b> <br>
  :butterfly:  Objetivo futuro : Especializar em Mobile <b>(<em>React Native</em></b> or <b> <em>Flutter</em>). </b><br>
- :rocket: Meu grande foco é me tornar um profissional renomado no ramo de Mobile, A tecnologia das coisas, e por fim WEB 3.0... <br>
- Mas sei que preciso passar por grandes etapas até conquistar essa montanha de conhecimentos, e o Circulo começa exatamente assim 1º :3rd_place_medal: Front-End.  2º:2nd_place_medal: Back-End. 3º:1st_place_medal: Mobile 4º:medal_sports: Internet das Coisas 5º:trophy: WEB 3.0.
+ :rocket: Meu grande foco é me tornar um profissional renomado no ramo de Mobile, tecnologia das coisas, e por fim WEB 3.0... <br>
+ Mas sei que preciso passar por grandes etapas até conquistar essa montanha de conhecimentos, e o Circulo começa exatamente assim <table><tr><td>1º:3rd_place_medal:</td> Front-End.</tr><tr><td>  2º:2nd_place_medal: </td><td>Back-End.</td></tr><tr> <td>3º:1st_place_medal:</td><td> Mobile</td> </tr><tr><td> 4º:medal_sports:</td> <td>Internet das Coisas</td></tr><tr><td> 5º:trophy:</td> <td>WEB 3.0.</td><tr> </table>
   
  ## Redes Sociais 
   
