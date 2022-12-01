@@ -33,7 +33,7 @@
 </div>
 
 ## Sobre
- :desktop_computer: Estagiario Full Stack #(React.js)#.<br>
+ :desktop_computer: Estagiario Full Stack <b>(React.js)<b>.<br>
  :mortar_board: Estudante em Ciência de Dados, formado em Análise e Desenvolvimento de Sistemas. <br>
  :bug:  Entusiasta de tecnologia. <br>
  :video_game: Amante de jogos. <br>
