@@ -36,7 +36,7 @@
  :desktop_computer: Estagiário Full Stack <b>(React.js)</b>.<br>
  :mortar_board: Estudante em <b>Ciência de Dados</b> e formado em <b>Análise e Desenvolvimento de Sistemas</b>. <br>
  :bug:  Objetivo atual : Especializar em Full Stack <b>(<em>React</em> / <em>Node</em></b> and<b> <em>Postgre</em>)</b>. <br>
- :bug:  Objetivo futuro : Especializar em Mobile <b>(<em>React Native</em></b> or <b> <em>Flutter</em>) </b><br>
+ :butterfly:  Objetivo futuro : Especializar em Mobile <b>(<em>React Native</em></b> or <b> <em>Flutter</em>) </b><br>
  :video_game: Amante de jogos. <br>
  :sun_with_face: SAPERE AUDE! <br>
   
