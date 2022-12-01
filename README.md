@@ -39,7 +39,6 @@
  :bug:  Objetivo futuro : Especializar em Mobile <b>(<em>React Native</em></b> or <b> <em>Flutter</em>) </b><br>
  :video_game: Amante de jogos. <br>
  :sun_with_face: SAPERE AUDE! <br>
- U+1F47D
   
  ## Redes Sociais 
   
