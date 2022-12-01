@@ -33,8 +33,8 @@
 </div>
 
 ## Sobre
- :desktop_computer: Estagiario em API/REST Back End<br>
- :mortar_board: Estudando front-end/back-end. <br>
+ :desktop_computer: Estagiario Full Stack #(React.js)#.<br>
+ :mortar_board: Estudante em Ciência de Dados, formado em Análise e Desenvolvimento de Sistemas. <br>
  :bug:  Entusiasta de tecnologia. <br>
  :video_game: Amante de jogos. <br>
  :sun_with_face: SAPERE AUDE! <br>
