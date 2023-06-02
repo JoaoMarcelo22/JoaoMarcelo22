@@ -12,7 +12,16 @@
 <div style="display: inline_block">
   <br>
  <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-  <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+ 
+ 
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
