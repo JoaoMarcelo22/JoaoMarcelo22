@@ -11,28 +11,15 @@
 
 <div style="display: inline_block">
   <br>
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
- 
- 
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="55" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" style="margin: auto">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" style="margin: auto">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" style="margin: auto">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" style="margin: auto">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" style="margin: auto">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"style="margin: auto">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"style="margin: auto">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"style="margin: auto">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"style="margin: auto">
 </div>
 
 ## Sobre
