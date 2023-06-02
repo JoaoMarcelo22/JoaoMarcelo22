@@ -11,16 +11,16 @@
 
 <div style="display: inline_block">
   <br>
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" style="margin: 0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" style="margin: 0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" style="margin: 0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" style="margin: 0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" style="margin: 0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" style="margin: 0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"style="margin: 0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"style="margin: 0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"style="margin: 0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"style="margin: 0px 3px">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" margin="0px 3px">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" margin="0px 3px">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" margin="0px 3px">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" margin="0px 3px">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" margin="0px 3px">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" margin="0px 3px">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" margin="0px 3px">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" margin="0px 3px">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" margin="0px 3px">
+ <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" margin="0px 3px">
 </div>
 
 ## Sobre
