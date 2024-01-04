@@ -24,13 +24,28 @@
 </div>
 
 ## Sobre
- :desktop_computer: Full Stack Develop Junior e Data Scientist.<br>
- :mortar_board: Estudante em <b>Ciência da Computação</b> e formado em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Ciência de Dados</b>. <br>
- :sparkles: Cursos visados : Pós-Graduação : <b><em> Desenvolvimento Full Stack</em></b>,<b><em>Data Science</em></b>(Lato Sensu) e <b><em>Metodologia e Técnicas de Computação</em></b>(Stricto Sensu).  
- :bug:  Objetivo atual : Especializar em <b><em>Full Stack</em></b> com Ênfase em <b><em>Dados</em></b>.<br>
- :butterfly:  Objetivo futuro : Develop Multiplataforma com foco em <b><em>IOT<b><em> e <b><em>IA</b></em>.<br>
- :rocket: Meu grande foco é me tornar um profissional renomado em tecnologia das coisas e inteligencia artificial, e por fim WEB 3.0 como um todo. <br>
- :kite: Mas sei que preciso passar por grandes etapas até conquistar essa montanha de conhecimentos, e o círculo de conhecimento começa exatamente assim: <table><tr><td>1º🥇</td><td><b>Develop Full Stack.</b></td></tr><tr><td>  2º🥈 </td><td><b>Data Science.</b></td></tr><tr> <td>3º🥉</td><td><b>IA / IOT.</b></td> </tr><tr><td> 4º🎖️</td> <td><b>WEB 3.0.</b></td><tr> </table>
+ :desktop_computer: Full Stack Developer Júnior e Data Scientist.<br>
+:mortar_board: Estudante em <b>Ciência da Computação</b> e formado em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Ciência de Dados</b>. <br>
+:sparkles: Cursos visados: Pós-Graduação em <b><em>Desenvolvimento Full Stack</em></b>, <b><em>Data Science</em></b> (Lato Sensu) e <b><em>Metodologia e Técnicas de Computação</em></b> (Stricto Sensu).  
+:bug: Objetivo atual: Especializar-me em <b><em>Full Stack</em></b> com ênfase em <b><em>Dados</em></b>.<br>
+:butterfly: Objetivo futuro: Desenvolver Multiplataforma com foco em <b><em>IOT</em></b> e <b><em>IA</em></b>.<br>
+:rocket: Meu grande foco é tornar-me um profissional renomado em tecnologia das coisas e inteligência artificial, e, por fim, em WEB 3.0 como um todo. <br>
+:kite: Mas sei que preciso passar por grandes etapas até conquistar esse vasto conhecimento, e o círculo de conhecimento começa exatamente assim: 
+<table>
+  <tr>
+    <td>1º🥇</td><td><b>Desenvolvimento Full Stack</b></td>
+  </tr>
+  <tr>
+    <td>2º🥈</td><td><b>Data Science</b></td>
+  </tr>
+  <tr>
+    <td>3º🥉</td><td><b>IA / IOT</b></td>
+  </tr>
+  <tr>
+    <td>4º🎖️</td><td><b>WEB 3.0</b></td>
+  </tr>
+</table>
+
   
  ## Redes Sociais 
   
