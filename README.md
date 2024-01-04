@@ -30,7 +30,7 @@
  :bug:  Objetivo atual : Especializar em <b><em>Full Stack</em></b> com Ênfase em <b><em>Dados</em></b>.<br>
  :butterfly:  Objetivo futuro : Develop Multiplataforma com foco em <b><em>IOT<b><em> e <b><em>IA</b></em>.<br>
  :rocket: Meu grande foco é me tornar um profissional renomado em tecnologia das coisas e inteligencia artificial, e por fim WEB 3.0 como um todo. <br>
- :kite: Mas sei que preciso passar por grandes etapas até conquistar essa montanha de conhecimentos, e o círculo de conhecimento começa exatamente assim: <table><tr><td>1º:3rd_place_medal:</td><td><b> Front-End.</b></td></tr><tr><td>  2º:2nd_place_medal: </td><td><b>Back-End.</b></td></tr><tr> <td>3º:1st_place_medal:</td><td><b>Mobile.</b></td> </tr><tr><td> 4º:medal_sports:</td> <td><b>Internet das Coisas.</b></td></tr><tr><td> 5º:trophy:</td> <td><b>WEB 3.0.</b></td><tr> </table>
+ :kite: Mas sei que preciso passar por grandes etapas até conquistar essa montanha de conhecimentos, e o círculo de conhecimento começa exatamente assim: <table><tr><td>1º🥇</td><td><b>Develop Full Stack.</b></td></tr><tr><td>  2º🥈 </td><td><b>Data Science.</b></td></tr><tr> <td>3º🥉</td><td><b>IA / IOT.</b></td> </tr><tr><td> 4º🎖️</td> <td><b>WEB 3.0.</b></td><tr> </table>
   
  ## Redes Sociais 
   
