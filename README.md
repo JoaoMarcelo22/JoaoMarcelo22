@@ -26,9 +26,9 @@
 ## Sobre
  :desktop_computer: Full Stack Developer Júnior e Data Scientist.<br>
 :mortar_board: Estudante em <b>Ciência da Computação</b> e formado em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Ciência de Dados</b>. <br>
-:sparkles: Cursos visados: Pós-Graduação em <b><em>Desenvolvimento Full Stack</em></b>, <b><em>Data Science</em></b> (Lato Sensu) e <b><em>Metodologia e Técnicas de Computação</em></b> (Stricto Sensu).  
+:sparkles: Cursos visados: Pós-Graduação em <b><em>Desenvolvimento Full Stack</em></b> e <b><em>Data Science</em></b> (Lato Sensu) e <b><em>Metodologia e Técnicas de Computação</em></b> (Stricto Sensu).  
 :bug: Objetivo atual: Especializar-me em <b><em>Full Stack</em></b> com ênfase em <b><em>Dados</em></b>.<br>
-:butterfly: Objetivo futuro: Desenvolver Multiplataforma com foco em <b><em>IOT</em></b> e <b><em>IA</em></b>.<br>
+:butterfly: Objetivo futuro: Developer Multiplataforma com foco em <b><em>IOT</em></b> e <b><em>IA</em></b>.<br>
 :rocket: Meu grande foco é tornar-me um profissional renomado em tecnologia das coisas e inteligência artificial, e, por fim, em WEB 3.0 como um todo. <br>
 :kite: Mas sei que preciso passar por grandes etapas até conquistar esse vasto conhecimento, e o círculo de conhecimento começa exatamente assim: 
 <table>
