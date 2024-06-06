@@ -30,7 +30,7 @@
 :bug: Objetivo atual: Especializar-me em <b><em>Full Stack</em></b> com ênfase em <b><em>Dados</em></b>.<br>
 :butterfly: Objetivo futuro: Developer Multiplataforma com foco em <b><em>IOT</em></b> e <b><em>IA</em></b>.<br>
 :rocket: Meu grande foco é tornar-me um profissional renomado em tecnologia como um todo. <br>
-:kite: Mas sei que preciso passar por grandes etapas até conquistar esse vasto conhecimento, e o círculo de conhecimento começa exatamente assim. 
+:kite: Mas sei que preciso passar por grandes etapas até conquistar esse vasto conhecimento, e o círculo de conhecimento começa exatamente assim.. 
 <table>
   <tr>
     <td>1º🥇</td><td><b>Desenvolvimento Full Stack</b></td>
