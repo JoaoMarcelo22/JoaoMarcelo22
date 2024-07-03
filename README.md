@@ -39,7 +39,6 @@
     <td>2º🥈</td><td><b>Data Science</b></td>
   </tr>
 </table>
-<p>2/365</p>
 
   
  ## Redes Sociais 
