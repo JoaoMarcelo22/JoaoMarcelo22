@@ -41,7 +41,7 @@
 </table>
 
   
- ## Redes Sociais 
+ ## Redes Sociais. 
   
 <p align="center">
 <a href="mailto:joao_marcelo.22@hotmail.com">
