@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,md,azure," />
+    <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,md,azure,aws" />
   </a>
 </p>
   
