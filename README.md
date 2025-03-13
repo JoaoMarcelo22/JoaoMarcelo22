@@ -6,6 +6,22 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcelo22&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+## Sobre
+:mortar_board: Estudante em <b>Ciência da Computação</b> e formado em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Ciência de Dados</b>. <br>
+:desktop_computer: Full Stack Developer Júnior e Data Scientist.<br>
+:sparkles: Cursos visados: 
+:bug: Objetivo atual:
+:butterfly: Objetivo futuro:
+:rocket: Meu grande
+:kite: Mas 
+<table>
+  <tr>
+    <td>1º🥇</td><td><b>Desenvolvimento Full Stack</b></td>
+  </tr>
+  <tr>
+    <td>2º🥈</td><td><b>Data Science</b></td>
+  </tr>
+</table>
   
 ## Skills
 
@@ -22,24 +38,6 @@
  <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" margin="0px 3px">
  <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" margin="0px 3px">
 </div>
-
-## Sobre
- :desktop_computer: Full Stack Developer Júnior e Data Scientist.<br>
-:mortar_board: Estudante em <b>Ciência da Computação</b> e formado em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Ciência de Dados</b>. <br>
-:sparkles: Cursos visados: Pós-Graduação em <b><em>Desenvolvimento Full Stack</em></b> e <b><em>Data Science</em></b> (Lato Sensu) e <b><em>Metodologia e Técnicas de Computação</em></b> (Stricto Sensu).  
-:bug: Objetivo atual: Especializar-me em <b><em>Full Stack</em></b> com ênfase em <b><em>Dados</em></b>.<br>
-:butterfly: Objetivo futuro: Developer Multiplataforma com foco em <b><em>IOT</em></b> e <b><em>IA</em></b>.<br>
-:rocket: Meu grande foco é tornar-me um profissional renomado em tecnologia como um todo. <br>
-:kite: Mas sei que preciso passar por grandes etapas até conquistar esse vasto conhecimento, e o círculo de conhecimento começa exatamente assim.. 
-<table>
-  <tr>
-    <td>1º🥇</td><td><b>Desenvolvimento Full Stack</b></td>
-  </tr>
-  <tr>
-    <td>2º🥈</td><td><b>Data Science</b></td>
-  </tr>
-</table>
-
   
  ## Redes Sociais. 
   
