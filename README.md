@@ -29,9 +29,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,md,azure,aws,databricks,pbi,sqlserver" />
-   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/databricks-auto.svg" />
+   
   </a>
 </p>
+<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/databricks-auto.svg" />
 https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/databricks-auto.svg
 
 <p align="center">
