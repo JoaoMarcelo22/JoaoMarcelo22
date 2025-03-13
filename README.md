@@ -8,7 +8,7 @@
 
 ## Sobre
 :mortar_board: formado em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Ciência de Dados</b>. <br>
-:open_book: Estudante em <b>Ciência da Computação</b>
+:open_book: Estudante em <b>Ciência da Computação</b> <br>
 :desktop_computer: Full Stack Developer Júnior e Data Scientist.<br>
 :sparkles: Cursos visados: 
 :bug: Objetivo atual:
