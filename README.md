@@ -10,7 +10,7 @@
 :mortar_board: formado em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Ciência de Dados</b>. <br>
 :open_book: Estudante em <b>Ciência da Computação</b> <br>
 :computer: Full Stack Developer Júnior e Data Scientist.<br>
-:sparkles: Olá! Sou um entusiasta da tecnologia, com experiência em desenvolvimento de software e análise de dados. Meu objetivo é <b>solucionar desafios</b>, <b>transformar dados em insights estratégicos</b> e gerar impacto por meio da tecnologia.
+:sparkles: Olá! Sou um entusiasta da tecnologia, com experiência em desenvolvimento de software e análise de dados. Meu objetivo é <b>solucionar desafios</b>, <b>transformar dados em insights estratégicos</b> e gerar impacto por meio da tecnologia. <br>
 :bug: Objetivo atual:
 :butterfly: Objetivo futuro:
 :rocket: Meu grande
