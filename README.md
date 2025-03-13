@@ -26,12 +26,6 @@
 
 ## Data Science - Skills
 
-<div style="display: inline_block">
-  <br>
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" margin="0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" margin="0px 3px">
-</div>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,md,azure," />
