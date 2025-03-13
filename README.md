@@ -17,10 +17,14 @@
 :kite: Mas 
 <table>
   <tr>
-    <td>1º🥇</td><td><b>Desenvolvimento Full Stack</b></td>
+    <td>1º🥇</td>
+    <td><b>Desenvolvimento Full Stack</b></td>
+    <td><b>+1 Year experience</b></td>
   </tr>
   <tr>
-    <td>2º🥈</td><td><b>Data Science</b></td>
+    <td>2º🥈</td>
+    <td><b>Data Science</b></td>
+    <td><b>1 Year experience</b></td>
   </tr>
 </table>
 
