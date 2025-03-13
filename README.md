@@ -43,8 +43,6 @@
     />
   </a>
 </p>
-
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" margin="0px 3px">
   
  ## Redes Sociais. 
   
