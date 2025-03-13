@@ -32,12 +32,12 @@
    
   </a>
 </p>
-<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/databricks-auto.svg" />
-https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/databricks-auto.svg
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=databricks,pbi,sqlserver" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=py,sqlserver,postgres,mongodb,azure,aws,databricks,pbi,md"
+    />
   </a>
 </p>
   
