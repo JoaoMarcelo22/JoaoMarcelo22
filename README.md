@@ -36,19 +36,15 @@
   
 ## Full Stack - Skills
 
-<div style="display: inline_block">
-  <br>
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" margin="0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" margin="0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" margin="0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" margin="0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" margin="0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" margin="0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" margin="0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" margin="0px 3px">
- <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" margin="0px 3px">
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,cs,dotnet,nodejs,react,nextjs,git,insomnia,docker"
+    />
+  </a>
+</p>
+
  <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" margin="0px 3px">
-</div>
   
  ## Redes Sociais. 
   
