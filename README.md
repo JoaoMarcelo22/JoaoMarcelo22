@@ -47,11 +47,11 @@
  ## Redes Sociais. 
   
 <p align="center">
-<a href="mailto:joao_marcelo.22@hotmail.com">
+<a target=_blank href="mailto:joao_marcelo.22@hotmail.com">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=outlook">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-05bb9116a">
+    <a target=_blank href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-05bb9116a">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin">
     </a>
 </p>
