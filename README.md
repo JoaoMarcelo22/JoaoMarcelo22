@@ -24,7 +24,7 @@
   <tr>
     <td>2º🥈</td>
     <td><b>Data Science</b></td>
-    <td><b>1 Year experience</b></td>
+    <td><b> 1 Year experience</b></td>
   </tr>
 </table>
 
