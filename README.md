@@ -48,11 +48,11 @@
   
 <p align="center">
 <a href="mailto:joao_marcelo.22@hotmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joao_marcelo.22@hotmail.com">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=outlook">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-05bb9116a">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/jo%C3%A3o-marcelo-05bb9116a/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin">
     </a>
 </p>
 
