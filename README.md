@@ -27,13 +27,6 @@
 ## Data Science - Skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,md,azure,aws,databricks,pbi,sqlserver" />
-   
-  </a>
-</p>
-
-<p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=py,sqlserver,postgres,mongodb,azure,aws,databricks,pbi,md"
