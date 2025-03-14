@@ -11,12 +11,12 @@
 :open_book: Estudante em <b>Ciência da Computação</b> <br>
 :computer: Full Stack Developer Júnior e Data Scientist.<br>
 :sparkles: Olá! Sou um entusiasta da tecnologia, com experiência em desenvolvimento de software e análise de dados. Meu objetivo é <b>solucionar desafios</b>, <b>transformar dados em insights estratégicos</b> e gerar impacto por meio da tecnologia. <br>
-:artificial_satellite:
-:game_die:
+:rocket: Desenvolvimento Full Stack com Next.js e Node.js, utilizando PostgreSQL como banco de dados. Foco em boas práticas de SEO, escalabilidade da plataforma e monitoramento de dados via Google Analytics.<br>
+:game_die: Desenvolvimento de análises descritivas, monitoramento de métricas e geração de insights. Criação e apresentação de modelos estatísticos com Python, exploração de dados via SQL e visualização interativa no Power BI.<br>
 
 :bug: Objetivo atual:<br>
 :butterfly: Objetivo futuro:<br>
-:rocket: Meu grande<br>
+
 :kite: Mas <br>
 <table>
   <tr>
