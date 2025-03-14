@@ -50,10 +50,10 @@
  ## Redes Sociais. 
   
 
-   <a href="mailto:joao_marcelo.22@hotmail.com" target="_blank">
+   <a href="mailto:joao_marcelo.22@hotmail.com">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=outlook">
     </a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-05bb9116a" target="_blank">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-05bb9116a">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin">
     </a>
 
