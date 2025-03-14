@@ -11,10 +11,13 @@
 :open_book: Estudante em <b>Ciência da Computação</b> <br>
 :computer: Full Stack Developer Júnior e Data Scientist.<br>
 :sparkles: Olá! Sou um entusiasta da tecnologia, com experiência em desenvolvimento de software e análise de dados. Meu objetivo é <b>solucionar desafios</b>, <b>transformar dados em insights estratégicos</b> e gerar impacto por meio da tecnologia. <br>
-:bug: Objetivo atual:
-:butterfly: Objetivo futuro:
-:rocket: Meu grande
-:kite: Mas 
+:artificial_satellite:
+:game_die:
+
+:bug: Objetivo atual:<br>
+:butterfly: Objetivo futuro:<br>
+:rocket: Meu grande<br>
+:kite: Mas <br>
 <table>
   <tr>
     <td>1º🥇</td>
