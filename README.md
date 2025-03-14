@@ -14,10 +14,6 @@
 :rocket: Desenvolvimento Full Stack com Next.js e Node.js, utilizando PostgreSQL como banco de dados. Foco em boas práticas de SEO, escalabilidade da plataforma e monitoramento de dados via Google Analytics.<br>
 :game_die: Desenvolvimento de análises descritivas, monitoramento de métricas e geração de insights. Criação e apresentação de modelos estatísticos com Python, exploração de dados via SQL e visualização interativa no Power BI.<br>
 
-:bug: Objetivo atual:<br>
-:butterfly: Objetivo futuro:<br>
-
-:kite: Mas <br>
 <table>
   <tr>
     <td>1º🥇</td>
