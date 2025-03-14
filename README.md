@@ -49,15 +49,13 @@
   
  ## Redes Sociais. 
   
-<p align="center">
-<a href="mailto:joao_marcelo.22@hotmail.com" target="_blank">
+
+   <a href="mailto:joao_marcelo.22@hotmail.com" target="_blank">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=outlook">
     </a>
- 
     <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-05bb9116a" target="_blank">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin">
     </a>
-</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
