@@ -6,7 +6,7 @@
 </div>
 
 ## Bem-vindo ao meu perfil! 🚀
-### Sou apaixonado por **Ciência de Dados, Estatística e Inteligência Artificial**, aplicando técnicas avançadas para transformar dados em **insights estratégicos** e **modelos preditivos de impacto**  
+#### Sou apaixonado por **Ciência de Dados, Estatística e Inteligência Artificial**, aplicando técnicas avançadas para transformar dados em **insights estratégicos** e **modelos preditivos de impacto**  
 :mortar_board: Formado em <b>Ciência de Dados</b> e <b>Ciência da Computação</b> <br>
 :computer: Cientista de Dados há 2 anos<br>
 :sparkles: Fiz minha migração de carreira em 2021, inicialmente na área de desenvolvimento web, com foco em Next.js. Foi durante esse período que tive contato com o Google Analytics e entendi o potencial real dos dados. Desde então, troquei a carreira de desenvolvedor web para me tornar cientista de dados.<br>
